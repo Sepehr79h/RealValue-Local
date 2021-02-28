@@ -3,6 +3,9 @@ processed_dataset
 splitted_dataset_0.7_0.1_0.2/
 Output_Files/
 #array_files/
+splitted_dataset_*
+toronto_dataset
+Group
 
 */.DS_Store
 .DS_Store
@@ -20,7 +23,14 @@ ENV/
 env.bak/
 venv.bak/
 
-# Files
+
+config.yaml/
+key
+key.pub
+CA.txt
+192_frontal.jpeg
+TorontoDataset*
+Toronto Dataset*
 config.yaml
 .DS_Store
 157-165 (162 missing) toronto/157_bathroom.jpeg
