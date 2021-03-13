@@ -3,8 +3,9 @@ processed_dataset
 splitted_dataset_0.7_0.1_0.2/
 Output_Files/
 #array_files/
-splitted_dataset_*
+splitted_*
 toronto_dataset
+array_files_*
 Group
 
 */.DS_Store
